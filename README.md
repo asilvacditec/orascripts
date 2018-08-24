@@ -1,0 +1,2 @@
+# orascripts
+scripts oracle
